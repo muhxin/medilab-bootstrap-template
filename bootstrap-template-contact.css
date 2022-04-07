@@ -1,0 +1,306 @@
+.contact{
+	margin-top:90px;
+	text-align:center;
+}
+
+.contact-title{
+	font-size:26px;
+	font-weight:700;	
+}
+
+.contact-text{
+	font-size:17px;
+}
+
+.loc-icon{
+	width:50px;
+	height:50px;
+	border-radius:100%;
+	background:#d6e9fa;
+	text-align:center;
+	margin-top:10px;
+}
+
+.locicon{
+	font-size:30px;
+	margin-top:10px;
+	
+}
+
+.loc-icon:hover{
+	background:#1977cc;
+	color:white;
+}
+
+.loc-title{
+	font-size:22px;
+	font-weight:600;
+	color: #2c4964;
+}
+
+.loc-text{
+	font-size:14px;
+	color: #4b7dab;
+}
+
+
+.email-icon{
+	width:50px;
+	height:50px;
+	border-radius:100%;
+	background:#d6e9fa;
+	text-align:center;
+	margin-top:10px;
+}
+
+.emailicon{
+	font-size:25px;
+	margin-top:10px;
+	
+}
+
+.email-icon:hover{
+	background:#1977cc;
+	color:white;
+}
+
+.email-title{
+	font-size:22px;
+	font-weight:600;
+	color: #2c4964;
+}
+
+.email-text{
+	font-size:14px;
+	color: #4b7dab;
+}
+
+
+
+.phone-icon{
+	width:50px;
+	height:50px;
+	border-radius:100%;
+	background:#d6e9fa;
+	text-align:center;
+	margin-top:10px;
+	
+}
+
+.phoneicon{
+	font-size:30px;
+	margin-top:10px;
+	
+	
+}
+
+.phone-icon:hover{
+	background:#1977cc;
+	color:white;
+}
+
+.phone-title{
+	font-size:22px;
+	font-weight:600;
+	color: #2c4964;
+}
+
+.phone-text{
+	font-size:14px;
+	color: #4b7dab;
+}
+
+
+.footer{
+	padding: 60px 0 30px 0;
+    background: #fff;
+    box-shadow: 0px 2px 15px rgb(25 119 204 / 10%);
+}
+
+.medilab{
+	margin-top:3px;
+}
+
+.medilab-title{
+	font-size:23px;
+	font-weight:600;
+	color: #777777;
+}
+
+.medilab-text{
+	font-size:18px;
+	color: #777777;
+}
+
+.useful-links{
+	margin-top:2px;
+}
+
+.links-title{
+	font-size:20px;
+	font-weight:600;
+	color: #777777;
+}
+
+.links-icon{
+	color:#1977cc;
+	font-size:18px;
+}
+
+.useful-links a{
+	text-decoration:none;
+	list-style:none;
+	margin-left:5px;
+	color: #777777;
+	font-size:12px;
+}
+
+
+.Our-Services{
+	margin-top:2px;
+}
+
+.our-services-title{
+	font-size:20px;
+	font-weight:600;
+	color: #777777;
+}
+
+.our-services-icon{
+	color:#1977cc;
+	font-size:18px;
+}
+
+.Our-Services a{
+	text-decoration:none;
+	list-style:none;
+	margin-left:5px;
+	color: #777777;
+	font-size:15px;
+}
+
+.newsletter{
+	margin-top:2px;
+}
+
+.newsletter-title{
+	font-size:24px;
+	font-weight:600;
+	color: #777777;
+}
+
+
+.newsletter-text{
+	font-size:18px;
+	color: #777777;
+}
+ li:hover > a {
+    color: #1977cc;
+
+}
+
+.footer-bottom{
+	margin-top:20px;
+}
+
+.copy-right{
+	margin-left:3px;
+}
+
+.copyright-title{
+	font-size:15px;
+}
+
+.copyright-text{
+	font-size:14px;
+}
+
+.copyright-text span {
+	color:#1977cc;
+}
+
+.footer-icon{
+	display:flex;
+	flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.footer-icon1{
+	width:40px;
+	height:40px;
+	text-align:center;
+	background:#1977cc;
+	border-radius:100%;
+	margin-left:8px;
+}
+
+.footericon1{
+	font-size:20px;
+	color:white;
+	margin-top:8px;
+}
+
+
+.footer-icon2{
+	width:40px;
+	height:40px;
+	text-align:center;
+	background:#1977cc;
+	border-radius:100%;
+	margin-left:8px;
+}
+
+.footericon2{
+	font-size:20px;
+	color:white;
+	margin-top:8px;
+}
+
+
+.footer-icon3{
+	width:40px;
+	height:40px;
+	text-align:center;
+	background:#1977cc;
+	border-radius:100%;
+	margin-left:8px;
+}
+
+.footericon3{
+	font-size:20px;
+	color:white;
+	margin-top:8px;
+}
+
+
+.footer-icon4{
+	width:40px;
+	height:40px;
+	text-align:center;
+	background:#1977cc;
+	border-radius:100%;
+	margin-left:8px;
+}
+
+.footericon4{
+	font-size:20px;
+	color:white;
+	margin-top:8px;
+}
+
+
+.footer-icon5{
+	width:40px;
+	height:40px;
+	text-align:center;
+	background:#1977cc;
+	border-radius:100%;
+	margin-left:8px;
+}
+
+.footericon5{
+	font-size:20px;
+	color:white;
+	margin-top:8px;
+}

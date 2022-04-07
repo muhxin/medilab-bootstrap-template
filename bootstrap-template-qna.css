@@ -1,0 +1,218 @@
+.QnA{
+	margin-top:90px;
+	text-align:center;
+}
+
+.qna-title{
+	font-size:3vw;
+	font-weight:700;	
+}
+
+.qna-text{
+	font-size:1.6vw;
+}
+
+.testimonial{
+	text-align:center;
+	margin-top:90px;
+}
+
+.testimonail-title{
+	font-size:3vw;
+	font-weight:700;
+}
+
+.testitmonail-text{
+	font-size:1.6vw;
+}
+
+.image1{
+		width:130px;
+		height:130px;
+		margin-left: 55px;
+}
+.image-img{
+		width:90px;
+		height:90px;
+		margin-top: 15px;
+} 
+
+.client-title{
+	font-size:3vw;
+	font-weight:700;
+}
+
+em {
+	color: #999;
+}	
+			
+.client-info{
+		display:inline-flex;
+		flex-wrap:nowrap;
+		margin-top:10px;
+}
+.client-icon1{
+		color: #badaf7;
+		font-size: 26px;
+}
+.client-icon2{
+		color: #badaf7;
+		font-size: 26px;
+}
+				
+span{
+		padding: 12px 12px;
+}
+
+
+.image2{
+		width:130px;
+		height:130px;
+		margin-left: 55px;
+}
+.image-img2{
+		width:90px;
+		height:90px;
+		margin-top: 15px;
+} 
+
+
+.image3{
+		width:130px;
+		height:130px;
+		margin-left: 55px;
+}
+.image-img3{
+		width:90px;
+		height:90px;
+		margin-top: 15px;
+} 
+
+
+.image4{
+		width:130px;
+		height:130px;
+		margin-left: 55px;
+}
+.image-img4{
+		width:90px;
+		height:90px;
+		margin-top: 15px;
+} 
+
+
+.image5{
+		width:130px;
+		height:130px;
+		margin-left: 55px;
+}
+.image-img5{
+		width:90px;
+		height:90px;
+		margin-top: 15px;
+} 
+
+.gallery{
+	margin-top:90px;
+	text-align:center;
+}
+
+.gallery-title{
+	font-size:3vw;
+	font-weight:700;	
+}
+
+.gallery-text{
+	font-size:1.6vw;
+}
+
+.gallery-images{
+	overflow:hidden;
+}
+
+.gallery-img1{
+	width:100%;
+	transition: all .5s;
+}
+
+
+.gallery-img1:hover{
+	transform: scale(1.1);
+}
+
+
+.gallery-img2{
+	width:100%;
+	transition: all .5s;
+}
+
+
+.gallery-img2:hover{
+	transform: scale(1.1);
+}
+
+
+.gallery-img3{
+	width:100%;
+	transition: all .5s;
+}
+
+
+.gallery-img3:hover{
+	transform: scale(1.1);
+}
+
+
+.gallery-img4{
+	width:100%;
+	transition: all .5s;
+}
+
+
+.gallery-img4:hover{
+	transform: scale(1.1);
+}
+
+
+.gallery-img5{
+	width:100%;
+	transition: all .5s;
+}
+
+
+.gallery-img5:hover{
+	transform: scale(1.1);
+}
+
+
+.gallery-img6{
+	width:100%;
+	transition: all .5s;
+}
+
+
+.gallery-img6:hover{
+	transform: scale(1.1);
+}
+
+
+.gallery-img7{
+	width:100%;
+	transition: all .5s;
+}
+
+
+.gallery-img7:hover{
+	transform: scale(1.1);
+}
+
+
+.gallery-img8{
+	width:100%;
+	transition: all .5s;
+}
+
+
+.gallery-img8:hover{
+	transform: scale(1.1);
+}

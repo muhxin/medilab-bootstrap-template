@@ -1,0 +1,330 @@
+.services{
+	margin-top:40px;
+}
+
+.services-title{
+	text-align:center;
+	font-weight:800;
+	
+}
+
+.services-text{
+	font-size:14px;
+	text-align:center;
+	padding:12px 12px;
+}
+
+.services-icon-box{
+	margin-top:30px;
+	text-align:center;
+	transition:all .5s
+}
+
+.services-box-icon{
+	width:60px;
+	height:60px;
+	color:white;
+	background:#1977cc;
+	margin:auto;
+	border-radius:5%;
+	margin-top:30px;
+	
+}
+.services-boxicon{
+	margin-top:16px;
+	font-size:30px;
+	text-align:center;
+}
+
+.services-box-title{
+	font-size:22px;
+	font-weight:700;
+	margin-top:30px;
+}
+
+.services-box-para{
+	font-size:18px;
+	margin-top:25px;
+}
+
+.services-icon-box:hover {
+	background:#1977cc;
+	color:white;
+}
+
+.form-body{
+	margin-top:40px;
+	
+}
+
+.form-title{
+	text-align:center;
+	font-weight:800;
+}
+
+.form-para{
+	font-size:14px;
+	text-align:center;
+	padding:12px 12px
+}
+
+
+.departments{
+	margin-top:60px;
+	text-align:center;
+}
+
+.departments h3{
+	font-size:3vw;
+	font-weight:700;
+}
+
+.departments p {
+	font-size:1.6vw;
+}
+
+.cardio-title{
+	font-size:2vw;
+	font-weight:700;
+}
+
+.cardio-para1{
+	font-size:1.3vw;
+	font-style:italic;
+	padding:2px 5px;
+	margin-top:8px;
+}
+
+.cardio-para2{
+	font-size:1.6vw;
+}
+
+.neuro-title{
+	font-size:2.3vw;
+	font-weight:700;
+}
+
+.neuro-para1{
+	font-size:1.5vw;
+	font-style:italic;
+	padding:2px 5px;
+	margin-top:8px;
+}
+
+.neuro-para2{
+	font-size:1.6vw;
+}
+
+
+.hepa-title{
+	font-size:2.3vw;
+	font-weight:700;
+}
+
+.hepa-para1{
+	font-size:1.5vw;
+	font-style:italic;
+	padding:2px 5px;
+	margin-top:8px;
+}
+
+.hepa-para2{
+	font-size:1.5vw;
+}
+
+
+.pedia-title{
+	font-size:2.3vw;
+	font-weight:700;
+}
+
+.pedia-para1{
+	font-size:1.5vw;
+	font-style:italic;
+	padding:2px 5px;
+	margin-top:8px;
+}
+
+.pedia-para2{
+	font-size:1.6vw;
+}
+
+
+.eye-title{
+	font-size:2.3vw;
+	font-weight:700;
+}
+
+.eye-para1{
+	font-size:1.5vw;
+	font-style:italic;
+	padding:2px 5px;
+	margin-top:8px;
+}
+
+.eye-para2{
+	font-size:1.6vw;
+}
+
+.doctors{
+	margin-top:40px;
+	text-align:center;
+}
+
+.doctors-title{
+	font-size:3vw;
+	font-weight:700;
+}
+
+.doctors-text{
+	font-size:1.7vw;
+}
+
+.doc-img1{
+	width:150px;
+	height:150px;
+	border-radius:50%;
+	background-image: url(images/doctors-1.jpg);
+	background-size:cover; 
+	transition: all .5s;
+}
+
+.doc-img1:hover{
+	width:160px;
+}
+
+.doc-title{
+	font-size:2vw;
+	font-weight:700;
+}
+.doc-sub-title{
+	font-size:1.7vw;
+}
+
+.doc-text{
+	font-size:1.5vw;
+}
+
+.doc-icons{
+ display:inline-flex;	
+
+}
+.doc-icon1{
+	width:40px;
+	height:40px;
+	text-align:center;
+	background:#a0bcd5;
+	border-radius:100%;
+	margin-left:8px;
+}
+
+.docicon1{
+	font-size:20px;
+	color:white;
+	margin-top:8px;
+}
+
+.doc-icon2{
+	width:40px;
+	height:40px;
+	text-align:center;
+	background:#a0bcd5;
+	border-radius:100%;
+	margin-left:8px;
+}
+
+.docicon2{
+	font-size:20px;
+	color:white;
+	margin-top:8px;
+}
+
+
+.doc-icon3{
+	width:40px;
+	height:40px;
+	text-align:center;
+	background:#a0bcd5;
+	border-radius:100%;
+	margin-left:8px;
+}
+
+.docicon3{
+	font-size:20px;
+	color:white;
+	margin-top:8px;
+}
+
+
+.doc-icon4{
+	width:40px;
+	height:40px;
+	text-align:center;
+	background:#a0bcd5;
+	border-radius:100%;
+	margin-left:8px;
+}
+
+.docicon4{
+	font-size:20px;
+	color:white;
+	margin-top:8px;
+}
+
+.doc-icon1:hover{
+	background:#1977cc;
+}
+
+.doc-icon2:hover{
+	background:#1977cc;
+}
+
+.doc-icon3:hover{
+	background:#1977cc;
+}
+
+.doc-icon4:hover{
+	background:#1977cc;
+}
+
+.doc-img2{
+	width:150px;
+	height:150px;
+	border-radius:100%;
+	background-image: url(images/doctors-2.jpg);
+	background-size:cover;
+	transition: all .5s;
+}
+
+
+.doc-img2:hover{
+	width:160px;
+}
+
+.doc-img3{
+	width:150px;
+	height:150px;
+	border-radius:100%;
+	background-image: url(images/doctors-3.jpg);
+	background-size:cover;
+	transition: all .5s;
+}
+
+.doc-img3:hover{
+	width:160px;
+}
+
+
+.doc-img4{
+	width:150px;
+	height:150px;
+	border-radius:100%;
+	background-image: url(images/doctors-4.jpg);
+	background-size:cover;
+	transition: all .5s;
+}
+
+
+.doc-img4:hover{
+	width:160px;
+}
